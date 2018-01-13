@@ -9,10 +9,13 @@
             Collection of test tools and references to other packages and libraries that I use for my test cases.
         </summary>
         <tags>UnitTest NSubstitute xunit FluentAssertions Approval</tags>
-        <authors>GrumpyBusted</authors>
+        <authors>Anders Busted-Janum</authors>
+        <owners>GrumpyBusted</owners>
+        <projectUrl>https://github.com/GrumpyBusted/Grumpy.TestTools</projectUrl>
+        <licenseUrl>https://github.com/GrumpyBusted/Grumpy.TestTools/blob/master/LICENSE</licenseUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <language>en-US</language>
-        <copyright>Copyright © Anders Busted-Janum 2018</copyright>
+        <copyright>Copyright © Busted-Janum 2018</copyright>
         <dependencies>
             <dependency id="ApprovalTests" version="3.0.13" />
             <dependency id="ApprovalUtilities" version="3.0.13" />
@@ -22,7 +25,7 @@
             <dependency id="xunit" version="[2.1.0]" />
             <dependency id="xunit.runner.console" version="2.3.1" />
             <dependency id="xunit.runner.visualstudio" version="2.3.1" />
-            <dependency id="Grumpy.Common" version="1.0.10" />
+            <dependency id="Grumpy.Common" version="1.1.0" />
         </dependencies>
     </metadata>
     <files>
@@ -30,4 +33,3 @@
         <file src="Grumpy.TestTools.pdb" target="lib\net451" />
     </files>
 </package>
-
