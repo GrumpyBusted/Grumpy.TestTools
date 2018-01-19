@@ -8,7 +8,7 @@
         <summary>
             Collection of test tools and references to other packages and libraries that I use for my test cases.
         </summary>
-        <tags>UnitTest NSubstitute xunit FluentAssertions Approval</tags>
+        <tags>unittest nsubstitute xunit fluentassertions approval-test opencover testtools nuget</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
         <projectUrl>https://github.com/GrumpyBusted/Grumpy.TestTools</projectUrl>
