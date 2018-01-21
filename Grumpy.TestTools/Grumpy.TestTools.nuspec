@@ -5,9 +5,7 @@
         <version>0</version>
         <title>Grumpy.TestTools</title>
         <description>Collection of test tools and libraries</description>
-        <summary>
-            Collection of test tools and references to other packages and libraries that I use for my test cases.
-        </summary>
+        <summary>Collection of test tools and references to other packages and libraries that I use for my test cases.</summary>
         <tags>unittest nsubstitute xunit fluentassertions approval-test opencover testtools nuget</tags>
         <authors>Anders Busted-Janum</authors>
         <owners>GrumpyBusted</owners>
@@ -25,7 +23,7 @@
             <dependency id="xunit" version="[2.1.0]" />
             <dependency id="xunit.runner.console" version="2.3.1" />
             <dependency id="xunit.runner.visualstudio" version="2.3.1" />
-            <dependency id="Grumpy.Common" version="1.2.0" />
+            <dependency id="Grumpy.Common" version="1.2.3" />
             <dependency id="OpenCover" version="[4.6.519]" />
         </dependencies>
     </metadata>

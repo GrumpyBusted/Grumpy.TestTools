@@ -36,6 +36,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestTools.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -58,7 +59,7 @@
       <Version>4.20.1</Version>
     </PackageReference>
     <PackageReference Include="Grumpy.Common">
-      <Version>1.2.0</Version>
+      <Version>1.2.3</Version>
     </PackageReference>
     <PackageReference Include="NSubstitute">
       <Version>3.1.0</Version>
