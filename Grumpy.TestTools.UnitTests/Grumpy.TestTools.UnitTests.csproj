@@ -1,9 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
 
     <IsPackable>false</IsPackable>
+
+    <Copyright>Copyright © Busted-Janum 2019</Copyright>
+
+    <Description>Unit Tests for Grumpy.TestTools</Description>
+
+    <Authors>Anders Busted-Janum</Authors>
+
+    <Company>GrumpyBusted</Company>
   </PropertyGroup>
 
   <ItemGroup>
